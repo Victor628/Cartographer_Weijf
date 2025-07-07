@@ -1,4 +1,0 @@
-# ninja log v5
-1	2791	1751732119481445331	CMakeFiles/flat_world_imu_node.dir/src/flat_world_imu_node.cpp.o	3dff4d6897bcb30c
-2793	2953	1751732119641446379	/home/s/carto_ws/devel_isolated/turtlebot3_slam/lib/turtlebot3_slam/flat_world_imu_node	96743c35a318f516
-3	68	0	CMakeFiles/install.util	2a5c3886a2532858
