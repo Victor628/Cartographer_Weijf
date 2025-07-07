@@ -1,0 +1,4 @@
+# ninja log v5
+5	9314	1751732057553036855	CMakeFiles/turtlebot3_drive.dir/src/turtlebot3_drive.cpp.o	70c57925314eda37
+9323	10455	1751732058697044454	/home/s/carto_ws/devel_isolated/turtlebot3_gazebo/lib/turtlebot3_gazebo/turtlebot3_drive	a0a385a13031daba
+3	405	0	CMakeFiles/install.util	94626615d19ed7ce

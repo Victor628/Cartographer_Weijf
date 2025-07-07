@@ -1,0 +1,4 @@
+# ninja log v5
+0	4887	1751732084569215758	CMakeFiles/turtlebot3_diagnostics.dir/src/turtlebot3_diagnostics.cpp.o	79ac5cf611a6cb44
+4892	5176	1751732084865217710	/home/s/carto_ws/devel_isolated/turtlebot3_bringup/lib/turtlebot3_bringup/turtlebot3_diagnostics	82f03ec984405ce4
+5	75	0	CMakeFiles/install.util	7d918d1f4f7d79a4
